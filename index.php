@@ -7,9 +7,6 @@
 </head>
 <body>
 <div class="container">
-    <php 
-    echo()
-    ?>
 <h1>Please Log In</h1>
 <form method="POST">
 <label for="nam">User Name</label>
